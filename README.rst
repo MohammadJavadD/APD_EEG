@@ -1,9 +1,11 @@
+See our Pathology Detector space at:
+
 .. image:: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg?style=svg
    :target: https://huggingface.co/spaces/MJ/EEG_cls
    :alt:  View on Hugging Face 🤗 Spaces
-   :width: 10% 
+   :width: 200px 
 
-APD_EEG
+APD EEG
 ========
 Code for "`Amplifying pathological detection in EEG signaling pathways through cross-dataset transfer learning <https://www.sciencedirect.com/science/article/pii/S0010482523013586>`_"
 
@@ -18,9 +20,10 @@ Setup the environment
 
 Run the Jupyter notebooks
 -------------------------
-1. Run ``s1_data_preparation.ipynb`` to prepare the data.
-2. Run ``s2_supervised_learning.ipynb`` to train the model.
-3. Run ``s3_transfer_learning.ipynb`` to fine-tune the model.
+
+1. Run "`s1_data_preparation.ipynb <https://github.com/MohammadJavadD/APD_EEG/blob/main/s1_data_preparation.ipynb>`_" to prepare the data.
+2. Run "`s2_supervised_learning.ipynb <https://github.com/MohammadJavadD/APD_EEG/blob/main/s2_supervised_learning.ipynb>`_" to train the model.
+3. Run "`s3_transfer_learning.ipynb <https://github.com/MohammadJavadD/APD_EEG/blob/main/s3_transfer_learning.ipynb>`_" to fine-tune the model.
 
 Citation
 --------
