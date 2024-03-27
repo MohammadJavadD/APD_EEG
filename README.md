@@ -9,7 +9,7 @@ conda env create -f environment.yaml
 conda activate APD_EEG
 ```
 # Run the Jupyter notebooks
-First run `s1_data_prepapration.ipynb` to prepare the data, then run `s2_supervised_learning.ipynb` to train the model, and finally run `s3_transfer_learning.ipynb` to finetune the model.
+First, run `s1_data_prepapration.ipynb` to prepare the data, then run `s2_supervised_learning.ipynb` to train the model, and finally run `s3_transfer_learning.ipynb` to finetune the model.
 
 # Citation
 If you find this code useful, please cite our paper:
