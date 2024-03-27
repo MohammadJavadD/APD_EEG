@@ -1,7 +1,7 @@
 .. image:: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg?style=svg
    :target: https://huggingface.co/spaces/MJ/EEG_cls
    :alt:  View on Hugging Face 🤗 Spaces
-   :width: 20% 
+   :width: 10% 
 
 APD_EEG
 ========
