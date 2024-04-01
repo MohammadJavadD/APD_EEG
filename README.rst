@@ -17,13 +17,13 @@ Code for "`Amplifying pathological detection in EEG signaling pathways through c
 
 Run the Jupyter notebooks
 -------------------------
-You only need to open and run the following Jupyter notebooks in order. No need for setup or downoad any datasets. We use a mock version of TUAB and NMT for these notebooks, however the code to download these dataets is also available in the first notebook. 
+You only need to open and run the following Jupyter notebooks in order. No need to set up any enviroment or download any datasets. We use a mock version of TUAB and NMT for these notebooks, however, the code to download these datasets is also available in the first notebook. 
 
 1. Run "`s1_data_preparation.ipynb <https://github.com/MohammadJavadD/APD_EEG/blob/main/s1_data_preparation.ipynb>`_" to prepare the data.
 2. Run "`s2_supervised_learning.ipynb <https://github.com/MohammadJavadD/APD_EEG/blob/main/s2_supervised_learning.ipynb>`_" to train the model.
 3. Run "`s3_transfer_learning.ipynb <https://github.com/MohammadJavadD/APD_EEG/blob/main/s3_transfer_learning.ipynb>`_" to fine-tune the model.
 
-If you want to create an enviroment to run the code, you can use the following command:
+If you want to create an environment to run the code, you can use the following command:
 
 Setup the environment
 ---------------------
